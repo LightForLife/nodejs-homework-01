@@ -1,7 +1,5 @@
 # nodejs-homework-01
 
----
-
 #### Получаем и выводим весь список контактов
 
 `node index.js --action list`
